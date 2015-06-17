@@ -8,10 +8,10 @@
   "activationCommands": {
     "atom-workspace": "multiple-service-generator:toggle"
   },
-  "repository": "https://github.com/atom/multiple-service-generator",
+  "repository": "https://github.com/fabiusss/multiple-service-generator",
   "license": "MIT",
   "engines": {
-    "atom": ">=0.50"
+    "atom": ">=0.174.0 <2.0.0"
   },
   "dependencies": {
   }
