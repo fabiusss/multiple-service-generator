@@ -2,7 +2,7 @@
   "name": "multiple-service-generator",
   "main": "./lib/multiple-service-generator",
   "version": "1.1.0",
-  "description": "A short description of your package",
+  "description": "A short description of",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "multiple-service-generator:toggle"
