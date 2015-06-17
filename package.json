@@ -1,7 +1,7 @@
 {
   "name": "multiple-service-generator",
   "main": "./lib/multiple-service-generator",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A short description of",
   "keywords": [],
   "activationCommands": {
