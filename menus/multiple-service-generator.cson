@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle multiple-service-generator'
+      'command': 'multiple-service-generator:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'multiple-service-generator'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'multiple-service-generator:toggle'
+        }
+      ]
+    ]
+  }
+]
